@@ -1,2 +1,2 @@
 # LearningGIT
-TgrSilviu
+TgrSilviu - modificare readme din branch exercise
